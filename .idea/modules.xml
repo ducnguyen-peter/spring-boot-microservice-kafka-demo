@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/base-domains/base-domains.iml" filepath="$PROJECT_DIR$/base-domains/base-domains.iml" />
-      <module fileurl="file://$PROJECT_DIR$/email-service/email-service.iml" filepath="$PROJECT_DIR$/email-service/email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email-service/cart-service.iml" filepath="$PROJECT_DIR$/email-service/cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-service/item-service.iml" filepath="$PROJECT_DIR$/stock-service/item-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-microservice-kafka-demo.iml" filepath="$PROJECT_DIR$/.idea/springboot-microservice-kafka-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stock-service/stock-service.iml" filepath="$PROJECT_DIR$/stock-service/stock-service.iml" />
     </modules>
   </component>
 </project>
